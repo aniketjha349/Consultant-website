@@ -256,7 +256,7 @@ const DemoProduct = (props) => {
                                 </div>
                                 <div className="flex flex-col">
                                     <h2 className="text-2xl">Office Address</h2>
-                                    <p className="text-gray-400">Ilo Awela, Ota, Ogun State</p>
+                                    <p className="text-gray-400">Noida, Sector 62, Block C , Utar Pradesh</p>
                                 </div>
                             </div>
                             
